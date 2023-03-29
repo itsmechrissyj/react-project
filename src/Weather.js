@@ -2,4 +2,4 @@ import React from "react";
 
 export default function Weather () { 
     return (
-       <h2>Hello World </h2>) ;}
+       <Loader type="Puff" color="blue" height={100} width={100} timeout={3000}/>) ;}
