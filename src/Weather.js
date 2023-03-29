@@ -59,6 +59,7 @@ export default function Weather() {
             <li>Humidity: 77%</li>
             <li>Wind: 8 km/h</li>
           </ul>
+          <div><footer> This was coded by Christine Jones and hosted on <a href="https://github.com/itsmechrissyj/react-project">Github</a></footer></div>
         </div>
       </div>
     </div>
@@ -66,5 +67,5 @@ export default function Weather() {
 
   );
 }
-<div>
-<footer> This was coded by Christine Jones and hosted on <a href="https://github.com/itsmechrissyj/react-project">Github</a></footer></div>
+
+
