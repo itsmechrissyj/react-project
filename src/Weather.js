@@ -67,4 +67,4 @@ export default function Weather() {
   );
 }
 <div>
-<footer> This was coded by Christine Jones and hosted on <a href="/">Github</a></footer></div>
+<footer> This was coded by Christine Jones and hosted on <a href="https://github.com/itsmechrissyj/react-project">Github</a></footer></div>
